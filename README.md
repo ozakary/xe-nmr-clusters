@@ -81,8 +81,8 @@ Non-periodic XYZ clusters with:
 
 Designed for systems containing:
 - 2 Xenon atoms (typically one inside CC3 cage, one outside)
-- 1 CC3 porous organic cage (H₈₄C₇₂N₁₂, 168 atoms)
-- Multiple solvent molecules (DCT: H₆C₇Cl₂, HAP: H₈C₈O₂, TBA: H₇C₈O₂F₃)
+- 1 CC3 porous organic cage (H<sub>84</sub>C<sub>72</sub>N<sub>12</sub>, 168 atoms)
+- Multiple solvent molecules (DCT: H<sub>6</sub>C<sub>7</sub>Cl<sub>2</sub>, HAP: H<sub>8</sub>C<sub>8</sub>O<sub>2</sub>, TBA: H<sub>7</sub>C<sub>8</sub>O<sub>2</sub>F<sub>3</sub>)
 
 ## Algorithm Details
 
