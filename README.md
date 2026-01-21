@@ -15,8 +15,8 @@ A Python tool for extracting molecular clusters around Xenon atoms from periodic
 XeNMRClusters reads periodic MD trajectories and extracts compact, non-periodic molecular clusters centered around Xenon atoms. The tool:
 - Identifies molecules using ASE's connectivity analysis
 - Extracts complete molecules within a user-defined cutoff radius
-- Unwraps periodic boundaries to create physically realistic clusters
-- Preserves local atomic environments for accurate NMR calculations
+- Unwraps periodic boundaries to create correct clusters
+- Preserves local atomic environments
 
 ## Features
 
